@@ -1,0 +1,21 @@
+Pytanie;Odpowiedź A;Odpowiedź B;Odpowiedź C;Odpowiedź D;Poprawna odpowiedź
+Jak nazywa się bóg pogody, piorunów i małżeństwa?;A: Fjord;B: Thor;C: Frey;D: Odyn;B
+Czym w rzeczywistości był kot Uthgardlokiego?;A: wielkim wężem;B: olbrzymem;C: Alfem;D: po prostu kotem;A
+Kto był matką Sleipnirra, wierzchowca Odyna?;A: Besla;B: Ungbroda;C: Loki;D: Odyn;C
+Który z bogów miał tylko jedno ucho?;A: Heimdallr;B: Ullr;C: Odyn;D: Bragi;A
+Czym wyłącznie żywił się Odyn?;A: wilczym mięsem;B: krwią poległych;C: winem;D: miodem pitnym;D
+Ile dni trwa podróż z Asgardu do królestwa Hel?;A: 1 dzień;B: 1 rok;C: od zachodu do wschodu słońca;D: 9 dni;D
+Z czego zrobiona była broń, która zabiła Baldra?;A: z jemioły;B: z żelaza wytopionego przez Svartalfy;C: z lodu;D: z ognia;A
+Co oznacza Bolverk, jedno z imion Odyna?;A: jednooki;B: zmiennokształny;C: czyniący zło;D: zwycięzki;C
+Jaka więź łączyła Odyna z Lokim?;A: braterstwo krwi;B: byli przyrodnimi braćmi;C: ojciec i syn;D: Loki był pierwotnie zakładnikiem Odyna;A
+Które z wymienionych zwierząt NIE było kojarzone z Odynem?;A: koń;B: wilk;C: kruk;D: dzik;D
+Odpowiednikiem których postaci z mitologii greckiej były Norny?;A: Moiry;B: Furie;C: Muzy;D: Gorgony;A
+Jakim gatunkiem drzewa był Yggdrasil?;A: jesion;B: dąb;C: grab;D: jabłoń;A
+Które z wymienionych zwierząt nie ciągnęło wozu żadnego z bogów?;A: kozioł;B: kot;C: jeleń;D: dzik;C 
+Który z wymienionych nie był dzieckiem Lokiego?;A: wilk Fenris;B: Jormungand - wąż świata;C: Sleipnir - koń Odyna;D: Surtur - ognisty olbrzym;D
+Kim w rzeczywistości była Elle, która pokonała w zapasach Thora?;A: starością;B: chorobą;C: skalistą górą;D: rzeką;A
+Kim oryginalnie był Gandalf, którego imię zapożyczył później Tolkien?;A: Asem (Aesir);B: karłem (Dverg/Svartalfr);C: elfem (Alfr);D: bogiem z rodu Wanów (Vanir);B
+Czyim ojcem był Njord?;A: Magni i Mani;B: Willi i We;C: Frey i Freya; Widar i Wali;C
+Który ze składników NIE został użyty do wykucia Gleipnira - łańcucha pętającego wilka Fenrisa?;A: odgłos kocich kroków;B: oddech ryby;C: kobieca broda;D: skrzydła węża;D 
+Z czego zrobiony był miód poezji?;A: dających młodość jabłek boginii Idun;B: krwi karła (Dverg) Kwasira;C: złota;D: żywicy Yggdrasila;B
+Która z bogiń zbiera w swoim dworze połowę z poległych na polu bitwy?;A: Frigga;B: Skadi;C: Sif;D: Freya;D
